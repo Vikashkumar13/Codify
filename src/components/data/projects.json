@@ -1,0 +1,18 @@
+[
+  {
+    "key": 1,
+    "title": "Shopify",
+    "imageSrc": "https://images.pexels.com/photos/230544/pexels-photo-230544.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "description": "This is a project made with complete MERN Stack",
+    "demo": "https://www.example.com",
+    "source": "https://github.com/Vikashkumar13/vikash"
+  },
+  {
+    "key": 2,
+    "title": "Melodyne",
+    "imageSrc": "https://media.istockphoto.com/id/852078190/photo/lifestyle-recording-equipment.jpg?b=1&s=612x612&w=0&k=20&c=l-Ca_mF3vIXmMZPIfXNMtXgnB0jWnACSgYsYFxXmiME=",
+    "description": "This is a project made with MERN Stack",
+    "demo": "https://www.example.com",
+    "source": "https://github.com/Vikashkumar13/vikash"
+  }
+]
